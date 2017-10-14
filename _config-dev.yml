@@ -1,5 +1,5 @@
 # Base URL
-baseurl: "deniy"# the subpath of your site, e.g. /blog/
+baseurl: ""# the subpath of your site, e.g. /blog/
 
 # Site live URL
 url: "https://obalus.github.io/deniy/" # the base hostname & protocol for your site
