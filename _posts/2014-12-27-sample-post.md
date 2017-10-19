@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Sample post from Gaya theme"
+title:  "Sex Hattı, Sex Sohbet, Telefonda Canlı Sohbet"
 date:   2014-12-27 11:15:02
-description: Just a sample post to show some of the typography elements supported from harmony theme.
+description: sohbet hatti ile gerçek sex hattı konuşması yaşamak için doğru yerdesiniz
 categories:
 - sample
 - guides
-permalink: sample-post
+permalink: sohbet-hatti
 ---
 
 Just a sample post to show some of the *typography* elements supported from 
